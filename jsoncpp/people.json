@@ -1,0 +1,10 @@
+{
+    "firstname": "Julia",
+    "lastname": "Anderson",
+    "age": 27,
+    "adress": "Washington, USA",
+    "job": {
+        "description": "saleswoman in a coffee shop",
+        "adress": "Washington, USA"
+    }
+}
